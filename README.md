@@ -1,11 +1,6 @@
-# darylladjo.com
+# darylladjo
 
-Page personnelle de **Daryl LADJO** — Software Engineer, full-stack & agents IA (Lomé, Togo).
+Personal page of **Daryl LADJO** — IT student & builder in Lome, Togo.
+Static HTML, no build step, deployed with GitHub Pages.
 
-Site statique (un seul fichier HTML, aucun build). Déployé sur GitHub Pages.
-
-## Local
-
-```
-ouvrir index.html
-```
+Live: https://zawarudo-coder.github.io/darylladjo/
