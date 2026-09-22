@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zawarudo-coder.github.io/darylladjo/sitemap.xml
